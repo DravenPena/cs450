@@ -5,7 +5,7 @@ This repository contains work done for my Operating Systems class where we used 
 sudoku.c
   This program when compiled with gcc sudoku.c will take an input 9x9 sudoku board and tell whether it is a valid board. 
   Ex)
- # valid:              
+ # valid:              # invalid
     123 456 789         
     234 567 891         
     345 678 912         
