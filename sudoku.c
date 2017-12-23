@@ -1,8 +1,11 @@
-/*Author: Draven Pena
- *Date: 11/10
- *Description: This program takes an input file with a 9x9 sudoku board.Using threads This program will go
- *through the board and check its validaty in 3 ways. First by each row, then each col, and finally through 
- *each grid*/
+/****************************************************************************************************************************
+ *Author: Draven Pena                                                                                                       *
+ *Date: 11/10                                                                                                               *
+ *Description: This program takes an input file with a 9x9 sudoku board.Using threads This program will go                  *
+ *through the board and check its validaty in 3 ways. First by each row, then each col, and finally through                 * 
+ *each grid                                                                                                                 *   
+ ****************************************************************************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
